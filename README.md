@@ -29,8 +29,8 @@ A professional, modern currency converter built with React JS featuring real-tim
 1. **Clone or download the project**
    ```bash
    # If you have git installed
-   git clone <repository-url>
-   cd currency-converter
+   git clone https://github.com/Prashuu0/Currency-Convertor.git
+   cd Currency-Convertor
    
    # Or simply extract the downloaded files
    ```
@@ -109,7 +109,7 @@ The app uses a beautiful gradient theme. You can customize colors in `src/index.
 
 ```css
 body {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #4c63d2 0%, #5a4ba2 100%);
 }
 ```
 
