@@ -2,6 +2,7 @@
 
 A professional, modern currency converter built with React JS featuring real-time exchange rates, beautiful glass morphism UI, and support for 50+ world currencies.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-green?style=for-the-badge&logo=netlify)](https://your-demo-link.netlify.app)
 ![Currency Converter Pro](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
@@ -63,10 +64,17 @@ A professional, modern currency converter built with React JS featuring real-tim
 ## 📱 Screenshots
 
 ### Desktop View
+![Currency Converter Pro](https://github.com/Prashuu0/Currency-Convertor/blob/main/screenshot.png)
+
+**Features Visible:**
 - Professional glass morphism design
 - Clean, intuitive interface
-- Real-time currency conversion
-- Beautiful gradient backgrounds
+- Real-time currency conversion (5 USD = 441.10 INR)
+- Beautiful purple-blue gradient background
+- 50+ World Currencies with country flags
+- Exchange rate display (1 USD = 88.2200 INR)
+- Last updated timestamp
+- Feature highlight cards
 
 ### Mobile View
 - Fully responsive design
